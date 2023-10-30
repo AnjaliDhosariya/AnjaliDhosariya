@@ -7,7 +7,7 @@ Hello there! 👋 I'm Anjali Dhosariya, a passionate 3rd year M.Tech student spe
 - **Name:** Anjali Dhosariya
 - **Academic Level:** 3rd year M.Tech in AI and Data Science
 - **Email:** [anjalidhosariya1126@gmail.com](mailto:anjalidhosariya1126@gmail.com)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/anjali-dhosariya)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/anjali-dhosariya-72833b24a)
 
 ## Hobbies and Interests
 
@@ -15,7 +15,6 @@ Hello there! 👋 I'm Anjali Dhosariya, a passionate 3rd year M.Tech student spe
 - 🧠 Tech enthusiast
 - 🌱 Lifelong learner
 - 🎶 Music lover
-- 📚 Bookworm
 
 ## How to Reach Me
 
