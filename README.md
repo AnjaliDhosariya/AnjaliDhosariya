@@ -1,6 +1,6 @@
 # Anjali Dhosariya's GitHub Repository
 
-Hello there! 👋 I'm Anjali Dhosariya, a passionate 3rd year M.Tech student specializing in Artificial Intelligence and Data Science. I'm an enthusiastic learner and a fun-loving individual, always eager to explore the endless possibilities of the tech world. Welcome to my GitHub repository, where I showcase my coding adventures, projects, and explorations in the fascinating realms of AI and data science!
+Hello there! 👋 I'm Anjali Dhosariya, a passionate 4th year M.Tech student specializing in Artificial Intelligence and Data Science. I'm an enthusiastic learner and a fun-loving individual, always eager to explore the endless possibilities of the tech world. Welcome to my GitHub repository, where I showcase my coding adventures, projects, and explorations in the fascinating realms of AI and data science!
 
 ## About Me
 
